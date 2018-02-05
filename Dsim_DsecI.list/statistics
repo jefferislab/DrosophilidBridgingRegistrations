@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 4587.8500000000
+time_total 5705.5700000000
+walltime_level 1422.0000000000
+walltime_total 1770.0000000000
+thread_time_level 4587.8500000000
+thread_time_total 5705.5700000000
+number_of_threads 4
+number_of_cpus 8
+host "richardomputer3.connect"
+system "Darwin"

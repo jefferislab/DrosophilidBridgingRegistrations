@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 914.2700000000
+time_total 1308.5000000000
+walltime_level 322.0000000000
+walltime_total 458.0000000000
+thread_time_level 914.2700000000
+thread_time_total 1308.5000000000
+number_of_threads 4
+number_of_cpus 8
+host "psnl-richard-1-wifi.lmb.internal"
+system "Darwin"

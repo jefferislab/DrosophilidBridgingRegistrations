@@ -1,0 +1,11 @@
+! TYPEDSTREAM 2.4
+
+studylist {
+	num_sources 2
+}
+source {
+	studyname "/Volumes/Benton_LMB/LMB/BridgingRegistrations/refbrain/DsecI.nrrd"
+}
+source {
+	studyname "/Volumes/Benton_LMB/LMB/AverageBrain/DsecI/images/DsecM_01.nrrd"
+}
